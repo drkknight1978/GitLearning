@@ -3,14 +3,4 @@ Eggs
 Bread
 Cheese
 Onions
-<<<<<<< HEAD
-Sauce
-Mustard
-Bannana
-Pills
-Pizza
-Ham
-Chicken
 
-=======
->>>>>>> parent of c0160db... 	modified:   list.txt
